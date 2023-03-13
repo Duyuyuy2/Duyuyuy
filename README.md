@@ -38,7 +38,7 @@ Big data analytic tool: Pyspark
 
 ##  📚 Projects 📚
 
-![Duy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duyuyuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<!-- ![Duy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duyuyuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
 <a href="https://github.com/Duyuyuy/Airbnb_Analysis_Project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
