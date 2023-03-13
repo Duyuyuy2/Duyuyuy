@@ -42,11 +42,11 @@ Big data analytic tool: Pyspark
 
 <a href="https://github.com/Duyuyuy/Airbnb_Analysis_Project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=Airbnb_Analysis_Project&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=Airbnb_Analysis_Project&theme=merko" />
 </a>    
 <a href="https://github.com/Duyuyuy/DSDV-repo/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=DSDV-repo&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=DSDV-repo&theme=gruvbox" />
 </a>
 
 
