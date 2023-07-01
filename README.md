@@ -1,4 +1,4 @@
-# Introducing Myself 🙋🏻‍♀️
+# Introducing Myself 🙋
 
 
 
