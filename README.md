@@ -55,7 +55,7 @@ Big data analytic tool: Pyspark
 
 <a href="https://github.com/Duyuyuy/US_Aviation_Report/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=US_Aviation_Report&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=US_Aviation_Report&theme=merko" />
 </a>
 
 </a>
