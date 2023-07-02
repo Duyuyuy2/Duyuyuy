@@ -53,6 +53,4 @@ Big data analytic tool: Pyspark
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=US_Aviation_Report&theme=gruvbox" />
 </a>
 
-
-
 </a>
