@@ -1,8 +1,9 @@
-# Introducing Myself 🙋
+# Hi there 🙋
+I'm a grad student who loves tinkering with data, automating workflows, and making things run smoother behind the scenes.
 
 
 
-## 💡 My Skills
+## 💡 My Interest
 
 Data preparation, quality assurance, and analysis
 
@@ -12,12 +13,16 @@ Dashboard development and reporting
 
 Exploratory data analysis
 
+Federated Learning, MLOps
+
 ## 🛠️ My Tools
 Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
 
-Python: NumPy, Pandas
+Python
 
 Visualisation: Tableau, Matplotlib, Seaborn, D3.js
+
+Automation tools: N8N, Power App, Power Automate, UIpath
 
 Big data analytic tool: Pyspark
 ## 🙌🏻 Connect with Me
